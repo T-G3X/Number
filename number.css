@@ -1,0 +1,21 @@
+ body{
+     background-color: black;
+     color: white;
+ }
+ 
+ h1{
+    text-align: center;
+}
+
+form{
+    text-align: center;
+    font-size: x-large;
+    margin-top: 8rem
+
+}
+
+#result{
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+}
